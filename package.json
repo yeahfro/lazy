@@ -1,0 +1,14 @@
+{
+  "name": "lazy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lazy.js",
+  "scripts": {
+    "test": "mocha lazy.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^1.20.2"
+  }
+}
